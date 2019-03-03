@@ -1,0 +1,1 @@
+java   -classpath   c:\itext-5.5.3\*;..\lib\*;..\classes;..\..\..\classes;. uiTestCase

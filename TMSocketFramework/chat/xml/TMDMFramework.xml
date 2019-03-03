@@ -1,0 +1,2 @@
+<database architecture="Oracle 11g" connectionString="chat" username="chat" password="chat" driver="oracle.jdbc.driver.OracleDriver" />
+<entity class="com.thinking.machines.chat.dl.Account" />

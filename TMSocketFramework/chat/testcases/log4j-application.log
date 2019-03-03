@@ -1,0 +1,78 @@
+2017-04-14 17:20:34 FATAL EntityManager:39 - Invalid column name : PaSSWORD_KEY in com.thinking.machines.chat.dl.Account against property : passwordKey
+2017-04-14 17:21:58 FATAL EntityManager:39 - Invalid column name : PASSWORD_KEY in com.thinking.machines.chat.dl.Account against property : passwordKey
+2017-04-14 17:26:12 FATAL EntityManager:39 - Invalid column name : PASSWORD_KEY in com.thinking.machines.chat.dl.Account against property : passwordKey
+2017-04-14 17:29:23 FATAL EntityManager:39 - Invalid column name : PASSWORD_KEY in com.thinking.machines.chat.dl.Account against property : passwordKey
+2017-04-14 17:33:49 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-14 17:51:12 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-14 17:51:29 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007096) violated
+ in case of insert operation for Account
+2017-04-14 17:53:47 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-14 17:54:22 FATAL Entity:298 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of update operation for Account
+2017-04-20 00:03:51 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:03:51 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:03:51 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:06:29 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:06:29 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:06:29 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:07:09 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:07:09 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:07:09 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:08:29 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:08:29 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:08:29 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:08:38 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:08:38 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:08:38 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:09:56 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:09:56 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:09:56 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:10:22 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:10:22 FATAL DatabaseUtility:24 - Fatal : Cannot create PoolableConnectionFactory (Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ )
+2017-04-20 00:10:22 FATAL DataManager:41 - Unable to connect to datbase
+2017-04-20 00:14:47 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-20 00:14:55 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-20 00:15:00 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-20 13:24:57 FATAL Entity:203 - ORA-00001: unique constraint (CHAT.SYS_C007095) violated
+ in case of insert operation for Account
+2017-04-25 01:18:57 FATAL DataManager:24 - Configuration file TMDMFramework.xml contains wrong class name : com.thinking.machines.chat.dl.Account
+2017-04-25 01:19:59 FATAL EntityManager:39 - Property : userName should be of : java.lang.Character
+2017-04-25 02:55:31 FATAL DatabaseUtility:24 - Fatal : Cannot create JDBC driver of class 'oracle.jdbc.driver.OracleDriver' for connect URL 'chat'
+2017-04-25 02:55:31 FATAL DatabaseUtility:24 - Fatal : Cannot create JDBC driver of class 'oracle.jdbc.driver.OracleDriver' for connect URL 'chat'
+2017-04-25 02:55:31 FATAL DataManager:41 - Unable to connect to database
+2017-04-25 02:57:32 FATAL EntityManager:39 - Table : ACCOUNT does not exist.
+2017-04-25 03:07:30 FATAL EntityManager:39 - Table : STUDENT1 does not exist.

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<configuration>
+<packages>
+<package>bl.*</package>
+<package>bl2</package>
+<package>bl2.*</package>
+<package>bl2.*.bl4</package>
+</packages>
+</configuration>
